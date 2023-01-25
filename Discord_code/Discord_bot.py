@@ -133,5 +133,5 @@ async def off(ctx):
 
 
 #token for the bot
-token = ("MTA2NzEzNTQ3NDAyOTgyNjA2OQ.GK5YZp.pBnwB6Dbn2cytzowFmuNyUDAruMVqIffmFKYXA")
+token = ("TOKEN GOES HERE")
 bot.run(token)
